@@ -26,7 +26,7 @@ Actualmente trabajo en la
 
 Aquí puedes ver un resumen de mi actividad:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoseCarlosLuque&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoseCarlosLuque&show_icons=true&theme=synthwave)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosLuque&layout=compact&theme=radical)
 
 ---
