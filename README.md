@@ -25,10 +25,11 @@ Actualmente trabajo en la
 ### 📊 Mis Estadísticas de GitHub
 
 Aquí puedes ver un resumen de mi actividad:
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlosLuque&show_icons=true&theme=radical" alt="Estadísticas de Jose" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=JoseCarlosLuque&theme=radical" alt="Racha de Jose" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosLuque&layout=compact&theme=radical" alt="Lenguajes de Jose" />
+  <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Estadísticas de Jose" />
+  <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Racha de Jose" />
+  <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Lenguajes de Jose" />
 </p>
 ---
 
