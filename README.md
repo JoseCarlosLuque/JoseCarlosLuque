@@ -24,11 +24,11 @@ Actualmente trabajo en la
 
 ### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver un resumen de mi actividad:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
+[![Mis Trofeos](https://github-profile-trophy.vercel.app/?username=JoseCarlosLuque&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Estadísticas de Jose" />
-  <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Racha de Jose" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseCarlosLuque&theme=radical" alt="Racha de Jose" />
   <img src="https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical" alt="Lenguajes de Jose" />
 </p>
 ---
