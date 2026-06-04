@@ -24,8 +24,7 @@ Actualmente trabajo en la
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Racha]("https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical")
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
 
 ### Contáctame:
 
