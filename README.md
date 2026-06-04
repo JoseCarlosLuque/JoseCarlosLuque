@@ -1,7 +1,8 @@
 
-<h1> ¡Hola! Soy Carlos  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> ¡Hola! Soy Carlos  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 Soy desarrollador Junior de soluciones para el ERP Odoo. Tengo experiencia tanto con cambios básicos (campos, botones, plantillas) así como la 
 creación de módulos customizados completos. Además puedo montar instancias de Odoo on premise en la nube
@@ -9,7 +10,7 @@ creación de módulos customizados completos. Además puedo montar instancias de
 Actualmente trabajo en la creación de un set de módulos de odoo 19 Community para poder dar una capa de funcionalidad extra al ERP basada en
 necesidades reales de clientes.
 
-- 🔭 Actualmente trabajo en: **OdooNext**
+- 💻 Actualmente trabajo en: **OdooNext**
 - 🌱 Estoy aprendiendo: **Certificación Odoo 18, Django**
 - 💬 Pregúntame sobre: **Python, Ciberseguridad**
 - ⚡ Dato curioso: **Soy un apasionado del diseño y la impresión 3d 🤓**
@@ -18,7 +19,9 @@ necesidades reales de clientes.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-carlos-luque-castro-3a3a11171)
 ---
 
-### Tecnologías y Herramientas
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y herramientas</b>
+<br>
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -33,6 +36,7 @@ necesidades reales de clientes.
 ### 📊 Mis Estadísticas de GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
+
 
 ### Contáctame:
 
