@@ -3,13 +3,17 @@
 ### 🚀 Sobre mí
 Soy desarrollador Junior de soluciones para el ERP Odoo. Tengo experiencia tanto con cambios básicos (campos, botones, plantillas) así como la 
 creación de módulos customizados completos. Además puedo montar instancias de Odoo on premise en la nube
-Actualmente trabajo en la
+
+Actualmente trabajo en la creación de un set de módulos de odoo 19 Community para poder dar una capa de funcionalidad extra al ERP basada en
+necesidades reales de clientes.
 
 - 🔭 Actualmente trabajo en: **OdooNext**
 - 🌱 Estoy aprendiendo: **Certificación Odoo 18, Django**
 - 💬 Pregúntame sobre: **Python, Ciberseguridad**
 - ⚡ Dato curioso: **Soy un apasionado del diseño y la impresión 3d 🤓**
 
+## Mi Linkedin:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-carlos-luque-castro-3a3a11171)
 ---
 
 ### 🛠️ Tecnologías y Herramientas
