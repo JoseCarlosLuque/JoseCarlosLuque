@@ -18,7 +18,7 @@ Actualmente trabajo en la
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) |
 | **Backend** | ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
+| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)|
 
 ---
 
@@ -26,12 +26,12 @@ Actualmente trabajo en la
 
 Aquí puedes ver un resumen de mi actividad:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoseCarlosLuque&show_icons=true&theme=synthwave)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josecarlosluque&show_icons=true&theme=cobalt)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosLuque&layout=compact&theme=radical)
 
 ---
 
-### 📫 Cómo contactarme
+### Contáctame:
 
 ¡Hablemos! Puedes encontrarme por aquí :
 
