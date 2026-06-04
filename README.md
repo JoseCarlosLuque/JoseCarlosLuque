@@ -33,7 +33,7 @@ Actualmente, estoy enfocado en el desarrollo de un set de módulos para Odoo 19 
 
 ### 📊 Mis Estadísticas de GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuqu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
 
 
 ### Contáctame:
