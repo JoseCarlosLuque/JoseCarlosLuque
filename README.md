@@ -4,11 +4,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-Soy desarrollador Junior de soluciones para el ERP Odoo. Tengo experiencia tanto con cambios básicos (campos, botones, plantillas) así como la 
-creación de módulos customizados completos. Además puedo montar instancias de Odoo on premise en la nube
+Soy desarrollador Junior especializado en soluciones para el ERP Odoo. Cuento con experiencia tanto en la personalización y optimización de la interfaz (campos, botones y plantillas) como en el diseño y desarrollo de módulos personalizados desde cero. Asimismo, tengo capacidad para desplegar e integrar instancias de Odoo on-premise y en entornos cloud.
+Actualmente, estoy enfocado en el desarrollo de un set de módulos para Odoo 19 Community, con el objetivo de dotar al ERP de funcionalidades avanzadas que resuelvan necesidades críticas extraídas de casos de uso reales de clientes.
 
-Actualmente trabajo en la creación de un set de módulos de odoo 19 Community para poder dar una capa de funcionalidad extra al ERP basada en
-necesidades reales de clientes.
 
 - 💻 Actualmente trabajo en: **OdooNext**
 - 🌱 Estoy aprendiendo: **Certificación Odoo 18, Django**
