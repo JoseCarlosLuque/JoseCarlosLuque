@@ -25,6 +25,7 @@ Actualmente trabajo en la
 ### 📊 Mis Estadísticas de GitHub
 
 Aquí puedes ver un resumen de mi actividad:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=dark)](https://git.io/streak-stats)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josecarlosluque&show_icons=true&theme=cobalt)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosLuque&layout=compact&theme=radical)
