@@ -40,5 +40,5 @@ Actualmente, estoy enfocado en el desarrollo de un set de módulos para Odoo 19 
 
 ¡Hablemos! Puedes encontrarme por aquí :
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-carlos-luque-castro-3a3a11171)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-carlos-luque-castro-3a3a11171)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luquecastrojosecarlos@gmail.com)
