@@ -33,7 +33,23 @@ Actualmente, estoy enfocado en el desarrollo de un set de módulos para Odoo 19 
 
 ### 📊 Mis Estadísticas de GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JoseCarlosLuque&theme=radical)
+<p align="center">
+  <a href="https://github.com/JoseCarlosLuque">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCarlosLuque&theme=radical&border=7F3FBF&background=0D1117" alt="Carlos Luque's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JoseCarlosLuque">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseCarlosLuque&theme=radical&show_icons=true" alt="Carlos Luque's GitHub Grahp"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JoseCarlosLuque">
+    <img src="https://github-readme-stats-mu-nine.vercel.app/api?username=JoseCarlosLuque&theme=radical&show_icons=true" alt="Carlos Luque's GitHub Contribution"/>
+  </a>
+</p>
 
 
 ### Contáctame:
